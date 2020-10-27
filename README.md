@@ -1,3 +1,3 @@
 # 30-day-challenge
 
-Javascript30
+wesbos.com javascript30
