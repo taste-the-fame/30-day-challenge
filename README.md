@@ -2,6 +2,4 @@
 
 wesbos.com javascript30
 
-
-Day One - Drum Kit
-https://taste-the-fame.github.io/30-day-challenge/day-1-drum-kit/
+<a href="https://taste-the-fame.github.io/30-day-challenge/day-1-drum-kit/">Day One - Drum Kit</a>
